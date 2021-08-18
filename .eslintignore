@@ -1,0 +1,9 @@
+# Ignore dist folder
+
+/src/classBased/components/
+
+/src/functionBased/components/
+
+# Ignore coverage folder
+
+/src/components
